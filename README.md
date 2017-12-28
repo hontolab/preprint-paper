@@ -1,5 +1,5 @@
-# 発表済みの論文（postprint）
-[山本祐輔](http://hontolab.org/)がこれまで発表した論文のうち、postprintバージョンで公開できるものを公開します。
+# 発表済みの論文（preprint）
+[山本祐輔](http://hontolab.org/)がこれまで発表した論文のうち、preprintバージョンで公開できるものを公開します。
 
 
 ## 学術論文誌
