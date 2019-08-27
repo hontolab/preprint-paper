@@ -3,7 +3,8 @@
 
 
 ## 学術論文誌
-
+- 山本祐輔, 山本岳洋,「批判的なウェブ検索を促進するクエリプライミング」, 情報処理学会論文誌: データベース (TOD80), Vol.12, No.1, pp.38-52, January 2019.
+- 山本祐輔, 山本岳洋, 大島裕明, 川上浩司,「ウェブアクセスリテラシー尺度の開発」, 情報処理学会論文誌: データベース (TOD80), Vol.12, No.1, pp.24-37, January 2019.
 
 ## 国際会議発表
 - Yusuke Yamamoto, Takehiro Yamamoto, Hiroaki Ohshima, and Kawakami Hiroshi, ["Web Access Literacy Scale to Evaluate How Critically Users Can Browse and Search for Web Information"](https://github.com/hontolab/preprint-paper/raw/master/content/websci2018.pdf), Proceedings of The 10th ACM Conference on Web Science (WebSci 2018), pp.1-10, Nederland, Amsterdam, May 2018.
