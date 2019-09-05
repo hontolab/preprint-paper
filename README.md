@@ -3,8 +3,8 @@
 
 
 ## 学術論文誌
-- 山本祐輔, 山本岳洋,[「批判的なウェブ検索を促進するクエリプライミング」](https://github.com/hontolab/preprint-paper/raw/master/content/chiir2018.pdf), 情報処理学会論文誌: データベース (TOD80), Vol.12, No.1, pp.38-52, January 2019.
-- 山本祐輔, 山本岳洋, 大島裕明, 川上浩司,[「ウェブアクセスリテラシー尺度の開発」](https://github.com/hontolab/preprint-paper/raw/master/content/websci2018.pdf), 情報処理学会論文誌: データベース (TOD80), Vol.12, No.1, pp.24-37, January 2019.
+- 山本祐輔, 山本岳洋,[「批判的なウェブ検索を促進するクエリプライミング」](https://github.com/hontolab/preprint-paper/raw/master/content/TOD80-1.pdf), 情報処理学会論文誌: データベース (TOD80), Vol.12, No.1, pp.38-52, January 2019.
+- 山本祐輔, 山本岳洋, 大島裕明, 川上浩司,[「ウェブアクセスリテラシー尺度の開発」](https://github.com/hontolab/preprint-paper/raw/master/content/TOD80-2.pdf), 情報処理学会論文誌: データベース (TOD80), Vol.12, No.1, pp.24-37, January 2019.
 
 ## 国際会議発表
 - Fumiaki Saito, Yoshiyuki Shoji and Yusuke Yamamoto, ["Highlighting Weasel Sentences for Promoting Critical Information Seeking on the Web"](https://github.com/hontolab/preprint-paper/raw/master/content/wise2019.pdf), Proceedings of the 20th International Conference on Web Information Systems Engineering (WISE 2019), pp.1-15, Hong Kong, China, Nobember 2019 (52/211 = 24.6%).
